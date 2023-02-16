@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "464029856735",
+    "project_id": "fir-urran",
+    "storage_bucket": "fir-urran.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464029856735:android:430ef911cbd3913a27ca6a",
+        "android_client_info": {
+          "package_name": "com.firebase.urraan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464029856735-ep1i0e8672e8nrl2nfbhqe1dukeoj8hd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firebase.urraan",
+            "certificate_hash": "7af15b03fc111c8d72bbaad907569396f8c162fa"
+          }
+        },
+        {
+          "client_id": "464029856735-4u1k0u5c14s1ropis4eatf05r04jqvvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0INYHgZqMfa_UKS-aqG633YTGJJXgjlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464029856735-4u1k0u5c14s1ropis4eatf05r04jqvvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
